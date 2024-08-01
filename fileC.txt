@@ -1,1 +1,2 @@
 This is file C.
+This file is updated.
