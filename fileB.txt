@@ -1,2 +1,2 @@
 This is file B.
-Updated in master branch.
+updated the file.
